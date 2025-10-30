@@ -1,0 +1,44 @@
+/* ================================
+   RECEITA FEDERAL FRONTEND - CSS
+   ================================ */
+
+body {
+  padding-top: 2rem;
+  background-color: #f8f9fa;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.form-section {
+  display: none;
+}
+
+.form-section.visible {
+  display: block;
+}
+
+/* Tabela */
+table th, table td {
+  vertical-align: middle !important;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+h3.card-title {
+  color: #004080;
+  font-weight: 600;
+}
+
+h5.card-title {
+  color: #0d6efd;
+}
+
+.text-muted.small {
+  text-align: center;
+  margin-top: 10px;
+}

@@ -1,0 +1,6 @@
+com\example\pagamentos\repository\PagamentoRepository.class
+com\example\pagamentos\model\Pagamento.class
+com\example\pagamentos\service\PagamentoService.class
+com\example\pagamentos\PagamentosApplication.class
+com\example\pagamentos\model\TipoImposto.class
+com\example\pagamentos\controller\PagamentoViewController.class
